@@ -1,0 +1,11 @@
+<h1>Hello World!</h1>
+{% if prenom is defined %}
+    <p>Bonjour {{ prenom }} </p>
+    {% if prenom=='Sylvain' %}
+        <p>Tu es un petit formateur</p>
+    {% elseif prenom=='Nicolas' %}
+        <p>Tu es un GRAND formateur</p>
+    {% else %}
+        <p>Tu es un wilder</p>
+    {% endif %}
+{% endif %}
