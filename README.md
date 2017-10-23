@@ -1,4 +1,16 @@
-171013_CommencerAvecSymfony_Atelier
-===================================
+# Laisse pas trainer ton file
+- **ATELIER** - PHP Symfony - *New Project / Root*
+- *171013_CommencerAvecSymfony/171013_CommencerAvecSymfony_Atelier*
+----
+- **Installer Symfony**
+- Se familiariser avec la console
+- Créer un bundle et comprendre son organisation
+- Créer un premier contrôleur
+- Se familiariser avec les routes et leur paramètres
+- Créer des méthodes renvoyant des fichiers twig en réponse
+- Se familiariser avec twig
+- Comprendre la syntaxe (variables, boucles, conditions...)
+- Inclure des autres fichiers twig
+- Comprendre le système d’héritage de twig
 
-A Symfony project created on October 23, 2017, 10:32 am.
+> [WildCodeSchool](https://wildcodeschool.fr/)
